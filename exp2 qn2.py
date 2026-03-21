@@ -1,0 +1,5 @@
+First_name= input("enter your first name")
+Middle_name=input("enter your second name")
+Last_name=input("enter your last name")
+name= (First_name + Middle_name + "  " + Last_name)
+print(name)

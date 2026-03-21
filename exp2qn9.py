@@ -1,0 +1,5 @@
+text= input("enter a string")
+print("\n String Reuslt")
+print("upper case     :",text.upper())
+print("lower case    :"text.lower())
+print("lower case    :"text.lower())
